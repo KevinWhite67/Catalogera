@@ -97,4 +97,4 @@ Fortalece conocimientos en desarrollo backend con .NET, manejo de bases de datos
 
 ## Estado del Proyecto
 
-En desarrollo
+Finalizado
